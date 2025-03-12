@@ -5,12 +5,17 @@
 ## 🚀 About Me
 🎯 Passionate about AI, Machine Learning, and Web Development. Constantly learning and improving.
 
+🔭 Currently working on exciting ML/DL projects.
+🌱 Exploring new technologies and improving coding skills.
+📚 Open to collaboration on interesting projects.
+
 ---
 
 ## 🔍 Research Interest
 - Machine Learning & Deep Learning
 - Data Science & Analytics
 - Web Development with Modern Frameworks
+- Cloud Computing & DevOps
 
 ---
 
@@ -36,11 +41,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### ☁️ Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ### 🛠️ Tools & Technologies:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 IDEs:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -49,10 +58,22 @@
 
 ---
 
-## 📫 Connect with me:
+## 📊 GitHub Statistics:
 
-<a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinandreas913&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andreas Kevin's GitHub Stats" /></a> 
+<a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinandreas913&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andreas Kevin's GitHub Stats" /></a> 
 
-<a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&theme=radical&hide_border=true" /></a>
+
+### 📈 Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinandreas913&theme=github)
+
+---
+
+## 🏆 GitHub Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kevinandreas913&theme=radical&no-frame=true&row=1)
+
+## 🎮 Fun Fact:
+🎮 I love gaming in my free time!
+📝 I occasionally write articles on tech & AI.
 
 ---
