@@ -58,6 +58,10 @@
 
 <a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&theme=radical&hide_border=true" /></a>
 
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinandreas913&theme=radical)
+![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinandreas913&theme=radical)
+
 <!-- ### 📈 Contribution Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinandreas913&theme=github) -->
 
