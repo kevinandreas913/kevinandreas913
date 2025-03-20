@@ -22,7 +22,7 @@
 
 ### 🖥️ Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
+<-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🤖 ML/DL:
@@ -57,6 +57,9 @@
 <a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinandreas913&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andreas Kevin's GitHub Stats" /></a> 
 
 <a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&theme=radical&hide_border=true" /></a>
+
+
+![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinandreas913&theme=radical)
 
 <!-- ### 📈 Contribution Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinandreas913&theme=github) -->
