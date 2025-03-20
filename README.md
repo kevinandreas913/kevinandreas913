@@ -34,8 +34,10 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-02569B?style=for-the-badge&logo=nltk&logoColor=white)
 
-### 🗄️ Database:
+### 🗄️ Database/Basis data:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-FF8800?style=for-the-badge&logo=csv&logoColor=white)
 
 ### 🛠️ Frameworks:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
