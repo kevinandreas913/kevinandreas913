@@ -60,6 +60,14 @@
 
 <a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinandreas913&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Andreas Kevin's GitHub Stats" /></a> 
 
+<!-- <p align="left">
+<a href="https://github.com/kevinandreas913">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinandreas913&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p> -->
+
+
 <a href="https://github.com/kevinandreas913/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinandreas913&layout=compact&theme=radical&hide_border=true" /></a>
 
 
